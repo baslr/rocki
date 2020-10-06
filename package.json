@@ -1,0 +1,19 @@
+{
+  "name": "rocki",
+  "version": "0.0.0",
+  "description": "a the feature less Node.js http(s) client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baslr/rocki.git"
+  },
+  "author": "Manuel Baesler",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/baslr/rocki/issues"
+  },
+  "homepage": "https://github.com/baslr/rocki#readme"
+}
